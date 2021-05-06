@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>topic on Joshua&#39;s Diary</title>
+    <link>https://minejosh.github.io/tags/topic/</link>
+    <description>Recent content in topic on Joshua&#39;s Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Apr 2020 18:25:08 +0100</lastBuildDate><atom:link href="https://minejosh.github.io/tags/topic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edward Jenner</title>
+      <link>https://minejosh.github.io/post/2020/04/edward-jenner/</link>
+      <pubDate>Tue, 21 Apr 2020 18:25:08 +0100</pubDate>
+      
+      <guid>https://minejosh.github.io/post/2020/04/edward-jenner/</guid>
+      <description>On May 14, 1796 Edward Jenner took fluid from a cowpox blister and scratched it onto the skin of James Phipps, an eight year old.
+A single blister rose up on the spot, but James soon recovered.
+On July 1, Edward Jenner inoculated the boy again. This time with smallpox matter and no disease developed.
+The vaccine was a success.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>baking on Joshua&#39;s Diary</title>
+    <link>https://minejosh.github.io/tags/baking/</link>
+    <description>Recent content in baking on Joshua&#39;s Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2020 17:49:35 +0100</lastBuildDate><atom:link href="https://minejosh.github.io/tags/baking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cupcakes recipe</title>
+      <link>https://minejosh.github.io/post/2020/06/cupcakes/</link>
+      <pubDate>Fri, 12 Jun 2020 17:49:35 +0100</pubDate>
+      
+      <guid>https://minejosh.github.io/post/2020/06/cupcakes/</guid>
+      <description>Today I made cupcakes.</description>
+    </item>
+    
+  </channel>
+</rss>
